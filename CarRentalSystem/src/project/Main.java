@@ -115,6 +115,7 @@ class CarRentalSystem {
 
         } else {
             System.out.println("Car is not available for rent.");
+            System.out.println("Car is available");
         }
     }
 
