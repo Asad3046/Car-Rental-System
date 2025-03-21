@@ -261,8 +261,8 @@ public class Main{
         Car car13 = new Car("C0013", "Suzuki", "Swift", 30.0);
         Car car14 = new Car("C0014", "Toyota", "Innova", 80.0);
         Car car15 = new Car("C0015", "Suzuki", "Ertiga", 65.0);
-        Car car16 = new Car("C0015", "Suzuki", "Grand Vitara", 70.0);
-        Car car17 = new Car("C0015", "Kia", "Windsor", 85.0);
+        Car car16 = new Car("C0015", "KIA", "Seltos", 70.0);
+        Car car17 = new Car("C0015", "MG", "Windsor", 85.0);
         
         
         rentalSystem.addCar(car1);
